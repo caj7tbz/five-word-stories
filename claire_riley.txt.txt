@@ -12,5 +12,6 @@ five word stories:
 10. incredible outlook on the world."
 11. The turtles swam away angry.
 12. Freddie was left alone crying. 
-13. Suddenly, the turtles looked saw
-14. Freddie swimming in a puddle of tears. 
+13. Suddenly, the turtles looked and 
+14. saw Freddie swimming in a 
+15. puddle of tears. Freddie was
